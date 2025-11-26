@@ -1,0 +1,20 @@
+1|Dr. Rahim Uddin|Cardiologist|rahim@hospital.com|10:00 AM - 2:00 PM|1200
+2|Dr. Salma Akter|Dermatologist|salma@hospital.com|11:00 AM - 3:00 PM|900
+3|Dr. Farhan Ali|Neurologist|farhan@hospital.com|2:00 PM - 6:00 PM|1500
+4|Dr. Nusrat Chowdhury|Gynecologist|nusrat@hospital.com|9:00 AM - 1:00 PM|1100
+5|Dr. Hasan Mahmud|Orthopedic|hasan@hospital.com|4:00 PM - 8:00 PM|1300
+6|Dr. Arif Khan|ENT Specialist|arif@hospital.com|12:00 PM - 4:00 PM|850
+7|Dr. Tania Rahman|Pediatrician|tania@hospital.com|10:00 AM - 1:00 PM|950
+8|Dr. Rafiq Islam|Psychiatrist|rafiq@hospital.com|3:00 PM - 7:00 PM|1400
+9|Dr. Shaila Noor|Endocrinologist|shaila@hospital.com|8:00 AM - 11:00 AM|1000
+10|Dr. Tanvir Hossain|Urologist|tanvir@hospital.com|5:00 PM - 9:00 PM|1500
+11|Dr. Jannat Ara|Oncologist|jannat@hospital.com|10:00 AM - 2:00 PM|1300
+12|Dr. Imtiaz Kabir|Nephrologist|imtiaz@hospital.com|9:00 AM - 12:00 PM|1200
+13|Dr. Lamiya Siddiqua|Rheumatologist|lamiya@hospital.com|1:00 PM - 5:00 PM|900
+14|Dr. Khalid Pervez|Gastroenterologist|khalid@hospital.com|11:00 AM - 3:00 PM|1100
+15|Dr. Mahira Yeasmin|Ophthalmologist|mahira@hospital.com|2:00 PM - 6:00 PM|1000
+16|Dr. Nawshad Karim|Hematologist|nawshad@hospital.com|9:00 AM - 1:00 PM|1500
+17|Dr. Rubaida Hasan|Allergist|rubaida@hospital.com|3:00 PM - 7:00 PM|850
+18|Dr. Shafayat Ahmed|General Physician|shafayat@hospital.com|8:00 AM - 12:00 PM|700
+19|Dr. Mehrab Mannan|Pulmonologist|mehrab@hospital.com|4:00 PM - 8:00 PM|1400
+20|Dr. Faria Islam|Neonatologist|faria@hospital.com|10:00 AM - 2:00 PM|1300
